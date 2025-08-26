@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/973b8a57-aa71-4ed3-92d8-f1f96b5f21e3" />
+
 # Table_Word_to_Excel_Converter
 
 This project extracts **tables from Microsoft Word (`.docx`) files** and saves them into a clean Excel (`.xlsx`) file.  
